@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADB WiFi Untether", "ADB WiFi Untether\ADB WiFi Untether.csproj", "{FBBF7C46-E60C-494F-88C5-AEC984997C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADB WiFi Untether CLI", "ADB WiFi Untether CLI\ADB WiFi Untether CLI.csproj", "{CF012211-CBE3-48A3-B994-919821FED1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBF7C46-E60C-494F-88C5-AEC984997C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBF7C46-E60C-494F-88C5-AEC984997C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBF7C46-E60C-494F-88C5-AEC984997C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBF7C46-E60C-494F-88C5-AEC984997C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF012211-CBE3-48A3-B994-919821FED1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF012211-CBE3-48A3-B994-919821FED1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF012211-CBE3-48A3-B994-919821FED1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF012211-CBE3-48A3-B994-919821FED1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C86398-D2A1-44C3-AC8F-0B5FD32FFD17}
+	EndGlobalSection
+EndGlobal
